@@ -1,4 +1,7 @@
 
+# Ignorar carpetas con imagenes
+public/
+dist/
 # OS generated files
 .DS_Store # macOS folder settings
 Thumbs.db # Windows image file cache
