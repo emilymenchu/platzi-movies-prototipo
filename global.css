@@ -21,6 +21,13 @@ body {
   --color-cornflowerblue-100: #8d8dda;
   --color-cornflowerblue-200: rgba(151, 151, 233, 0.44);
   --color-white: #fff;
+  --color-orange: #EDAD31;
+  --color-blue: #4871FF;
+  --color-purple: #C68DDA;
+  --color-dark-red: #8D2828;
+  --color-green: #64983C;
+  --color-yellow: #F2DA5C;
+
 
   /* Gaps */
   --gap-10xl: 29px;
@@ -64,6 +71,7 @@ body {
 
   /* Border radiuses */
   --br-3xs: 10px;
-  --br-65xl: 85px;
+  /* --br-65xl: 85px; */
+  --button-br-1: 85px;
   --br-xl: 20px;
 }
